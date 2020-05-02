@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1543258867 source:c:\users\gabi\desktop\homework2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hw.h"
+
+1543222938 c:\users\gabi\desktop\homework2\hw.h
+	<string.h>
+	<ctype.h>
+
+1543875452 source:c:\users\gabi\desktop\homework2 - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hw.h"
+
+1543875452 c:\users\gabi\desktop\homework2 - copy\hw.h
+	<string.h>
+	<ctype.h>
+
+1543875452 source:c:\users\gabi\desktop\homework2 - copy\main2.c
+	<stdio.h>
+	<stdlib.h>
+	"hw.h"
+
+1544022014 source:c:\users\gabi\desktop\homework3\main2.c
+	<stdio.h>
+	<stdlib.h>
+	"hw.h"
+
+1544021412 c:\users\gabi\desktop\homework3\hw.h
+	<string.h>
+	<ctype.h>
+
+1544919389 source:c:\users\gabi\desktop\homework3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hw.h"
+
